@@ -6,7 +6,7 @@ namespace Reports
     {
         static void Main(string[] args)
         {
-            //Użytkownik zostanie przywitany
+            //Użytkownik zostanie przywitany..
             //Dostanie możliwość wyboru akcji
             ///a. Stworzenie(dodanie) nowego zestawu tagów raportu
             ///b. Usunięcie wybranego  tagu z zestawu raportu
