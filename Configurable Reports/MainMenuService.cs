@@ -6,7 +6,8 @@ namespace Reports
 {
     public class MainMenuService
     {
-        //deklaracja listy MainMenu       
+        //2022 Reloded
+        //deklaracja listy MainMenu     
         private List<MainMenu> MainMenu;
 
         //prosty konstruktor, ponieważ lista ma modyfikator private potrzebny jest konstruktor
